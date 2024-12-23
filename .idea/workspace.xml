@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aef8fe43-c5f7-440a-89d9-d0fd0f382cd2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/AirplanePilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/Reservations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/StaffCabin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/models/fileMange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/thrianth/java_main_airline_project/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thrianth/java_main_airline_project/views/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +57,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HelloApplication.executor": "Run",
+    "Application.MainApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lakshmi ramesh\OneDrive\Desktop\final_java_project\java_main_airline_project\src\main\java\thrianth\java_main_airline_project\views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thrianth.java_main_airline_project.models" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
